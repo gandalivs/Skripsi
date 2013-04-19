@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 public class MainActivity extends MapActivity {
 
+	//test git
 	private static final File MAP_FILE = new File(Environment.getExternalStorageDirectory().getPath(), "surabaya.map");
 
 	MapView mapView;
